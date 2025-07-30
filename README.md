@@ -1,16 +1,61 @@
-## Hi there 👋
+# CMR运动 · Chinese Male Rights Movement
 
-<!--
-**CN-Male-Rights/CN-Male-Rights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个关注中国男性恋爱与婚姻安全的知识库与倡议平台。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 项目定位
+
+CMR（Chinese Male Rights Movement）意为“中国男性权利运动”，旨在通过整理案例、分析舆情、普及法律知识、科普心理健康等方式，让更多人理解并重视中国男性在亲密关系、婚姻制度、公共舆论中面临的现实处境与困境。
+
+---
+
+## 📂 内容结构
+
+本项目主要内容分为以下几个方向：
+
+- **📜 法律风险科普**：婚前协议、彩礼风险、财产纠纷、诬陷应对等
+- **📊 舆情分析**：南昌锜振东案、大同订婚案等热点事件梳理
+- **🧠 心理健康支持**：男性抑郁识别、PUA识别、自我修复指南
+- **🛡️ 个人行动指南**：风险防范清单、沟通边界建立、证据意识培养
+- **📚 数据与报告**：舆论性别偏向、法律判决趋势、婚恋成本统计等
+
+---
+
+## 🧭 为什么要做这个项目？
+
+在婚恋关系和社会舆论中，男性群体的处境长期被忽视，甚至在部分舆情中被简单化为“加害方”。CMR希望通过建设一个长期可持续、公开透明的知识平台，倡导理性、真实、多元的男性叙事与安全意识，唤起更多公共关注，也让男性更有勇气保护自己。
+
+---
+
+## 🌐 GitHub Pages 官网
+
+> 👉 [https://你的用户名.github.io/CMR-Project](https://你的用户名.github.io/CMR-Project)  
+（请在 Settings > Pages 中启用 GitHub Pages）
+
+---
+
+## 🙌 如何参与？
+
+欢迎通过以下方式参与建设：
+
+- 提交新的案例、数据或分析（通过 Pull Request）
+- 在 Issues 区提交补充、建议或观点
+- 帮助我们校对、翻译、优化排版
+- 联系我们：cmr.rights@proton.me（可选）
+
+---
+
+## ⚖️ 免责声明
+
+- 本项目所有内容仅用于科普、教育与公共倡议，**不构成法律建议或定罪依据**。
+- 所有案例内容力求客观中立，**不针对任何性别或群体**，也不做情绪性引导。
+- 若您认为内容涉及隐私、错误或不当，请通过 Issue 与我们联系，我们会及时处理。
+
+---
+
+## 🪪 授权协议
+
+本项目采用 **[CC BY-NC-SA 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)**，允许非商业使用、署名转载并保持一致共享。
+
+---
